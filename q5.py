@@ -12,7 +12,7 @@ n10=0
 n50=0
 tnotas=0
 
-print("O Valor total é do saque é{}".format(valor))
+print("O Valor total é do saque é {}".format(valor))
 
 if valor >= 50:
     n50 = valor // 50
